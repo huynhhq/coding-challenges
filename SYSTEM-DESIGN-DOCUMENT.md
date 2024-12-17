@@ -2,7 +2,7 @@
 
 ## System Design Document
 ### Architecture Diagram
-![Architecture Diagram](./architecture-diagram.png)
+![Architecture Diagram](./architecture_diagram.png)
 
 ### Component Description
 1. **Web Application**
